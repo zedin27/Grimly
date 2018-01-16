@@ -9,8 +9,8 @@ Directory Structure:
 3. Misc. folder. Name it after your intra name (ttran, husui, brabo-hi, ect) and include your code if you wish for others to see it and possibly take from it. 
 
 Team Board:
-Questions can be asked here between members, useful links posted, and brainstorming can be done. 
-As an alternative, https://docs.google.com/document/d/1IhzHOCD5eIgkGRF5jJtz_Cj-vHF0AhzIk2EuFFFPWBs/edit?usp=sharing . 
+Questions can be asked here between members, useful links posted, and brainstorming can be done. As an alternative, 
+https://docs.google.com/document/d/1IhzHOCD5eIgkGRF5jJtz_Cj-vHF0AhzIk2EuFFFPWBs/edit?usp=sharing . 
 
 Tutorial:
 1. Fork the repository
