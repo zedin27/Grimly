@@ -1,7 +1,10 @@
 # Grimly
 The 2nd project of Starfleet.
 
-Rules and directory structure: 
+Rules:
+
+Directory Structure:
+
 
 Tutorial:
 1. Fork the repository
